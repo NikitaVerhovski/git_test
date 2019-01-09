@@ -13,6 +13,18 @@ age = "22"
 print("Hello, {n}!\nyou're {a} years old.".format(n = name, a = age))
 
 
+answer = input("Готовы приступить к работе?(Y/N)")
+if answer == "Y":
+    a = input("Давай тогда попробуем.\nВыбери действие: ")
+
+
+
+
+
+
+
+
+
 
 
 
