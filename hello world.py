@@ -8,6 +8,9 @@ auto5 = "ford".upper()
 auto6 = "porsche".upper()
 print("Я хочу иметь в своем гараже семь машин : {}, {}, {}, {}, {}, {}, {}".format(auto, auto1, auto2, auto3, auto4, auto5, auto6))
 
+name = "Sosok"
+age = "22"
+print("Hello, {n}!\nyou're {a} years old.".format(n = name, a = age))
 
 
 
