@@ -5,4 +5,6 @@ bike = ["ducati", "yamaha", "honda"]
 print("Мой любимый мотоцикл ;", bike[0], "!")
 bike.append("kawasaki")
 cars.append("nissan")
+cars.append("tesla")
+print(cars)
 
