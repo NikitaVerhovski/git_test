@@ -4,4 +4,5 @@ print("А вот такую машину как ", cars[3], "никогда !!")
 bike = ["ducati", "yamaha", "honda"]
 print("Мой любимый мотоцикл ;", bike[0], "!")
 bike.append("kawasaki")
+cars.append("nissan")
 
