@@ -19,6 +19,8 @@ if answer == "Y":
 
 
 print("hello;")
+print("hello my dear friends;")
+print("can't seen to make you mine;")
 print("hello brother ;")
 
 
