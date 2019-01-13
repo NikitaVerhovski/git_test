@@ -18,9 +18,11 @@ if answer == "Y":
     a = input("Давай тогда попробуем.\nВыбери действие: ")
 
 
-print("hello")
-print("hello my dear friends")
-print("can't seen to make you mine")
+print("hello;")
+print("hello my dear friends;")
+print("can't seen to make you mine;")
+print("hello brother ;")
+
 
 
 
